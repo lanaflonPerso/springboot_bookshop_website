@@ -1,0 +1,10 @@
+.nav_menu{
+	color:white;
+	font:Adamina;
+	font-size:1.6em;
+}
+.nav_menu:hover{
+	text-decoration:none;
+	color:white;
+	font-size:1.8em;
+}
